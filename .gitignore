@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+
+# Archivos de configuración sensibles
+config.py
+
+# Archivos innecesarios del sistema
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Logs y salida de pruebas
+*.log
+
+# Archivos creados por herramientas
+.env
+.idea/
+.vscode/
